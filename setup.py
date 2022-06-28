@@ -5,7 +5,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
 
 setuptools.setup(
     name = "cohesion_pipeline",
-    version = "0.1.1",
+    version = "0.1.2",
     author = "Eden Berdugo, Tom Nachman, Asaf Solomon",
     author_email = "berdugogo@gmail.com",
     description = "Cohesion measurement to evaluate topic modeling score. call cohesion_df(df)",
@@ -25,7 +25,7 @@ setuptools.setup(
         'numpy~=1.21.0',
         'tqdm~=4.64.0',
         'tensorflow~=2.9.1',
-        'protobuf~=3.20.1',
+        'protobuf~=3.9.2',
         'torch'
     ],
     package_dir = {"": "src"},
