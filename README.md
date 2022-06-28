@@ -1,8 +1,11 @@
-# The Cohesion Pipeline
+# Cohesion Pipeline
 
-Given a division, Cohesion pipeline should give a cohesion score and recommend a suitable name for each group
-A suitable should suit each member of the group and be the tightest one (no entities in other groups suits the name), using inter and intra score
 
+The Topic-Detection field deals mainly with providing names to given divisions of documents and lacks a quality measurement that provides a rating for the division, that represent a human-subjective score.
+
+Given a division cohesion-pipeline will calculate the human-subjective score, and the related topic name to each label in a division.
+
+The POC to this attitude can be found in the [colab-notebook](https://colab.research.google.com/drive/1RreFOEd5LQDaNB7kQcH44bk5gkTpSVeH?usp=sharing), or in the ["Cohesion Pipeline Project- Full report"](https://github.com/Berdugo1994/cohesion-pipeline/blob/main/Cohesion%20Pipeline%20Project%20-%20Full%20Report.pdf)
 
 ## Installation
 
