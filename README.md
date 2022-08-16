@@ -28,8 +28,8 @@ data = {"text":
         'label':
             [1, 1, 1, 2, 2]}
 df = pd.DataFrame(data)
-score, res = cohesion_pipeline.cohesion_df(df)
+score, topic_names  = cohesion_pipeline.cohesion_df(df)
 print("Cohesion Final score is", score)
-print("Cohesion Topics are:", res)
+print("Cohesion Topics are:", topic_names)
 
 ```
