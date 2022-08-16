@@ -5,7 +5,7 @@ The Topic-Detection field deals mainly with providing names to given divisions o
 
 Given a division cohesion-pipeline will calculate the human-subjective score, and the related topic name to each label in a division.
 
-The POC to this attitude can be found in the [colab-notebook](https://colab.research.google.com/drive/1RreFOEd5LQDaNB7kQcH44bk5gkTpSVeH?usp=sharing), or in the ["Cohesion Pipeline Project- Full report"](https://github.com/Berdugo1994/cohesion-pipeline/blob/main/Cohesion%20Pipeline%20Project%20-%20Full%20Report.pdf)
+The POC to this attitude can be found in the [colab-notebook](https://colab.research.google.com/drive/1IFWKF3CFfzZWT9WucdISpDbLDI4mtTjX?usp=sharing), or in the ["Cohesion Pipeline Project- Full report"](https://github.com/Berdugo1994/cohesion-pipeline/blob/main/Cohesion%20Pipeline%20Project%20-%20Full%20Report.pdf)
 
 ## Installation
 
