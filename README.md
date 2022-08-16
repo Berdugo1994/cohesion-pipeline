@@ -10,7 +10,7 @@ The POC to this attitude can be found in the [colab-notebook](https://colab.rese
 ## Installation
 
 ```bash
-pip install cohesion-pipeline
+pip install topic-cohesion
 ```
 
 ## Usage Example
@@ -42,3 +42,5 @@ Expected output
 Cohesion Final score is: 0.99
 Cohesion Topics are: ['like football play ronaldo playing', 'tasty pizza hamburger eat choose']
 ```
+
+The useage example can be also found in the [colab-notebook-usage-example](https://colab.research.google.com/drive/1zAJs5px8HBMo99hPc-MhnlInKi7ze9yI?usp=sharing)
