@@ -22,12 +22,12 @@ In the next example, senteces 1, 2, 3 are belong to group 1 and senteces 4 and 5
 import pandas as pd
 from cohesion import topic_cohesion
 
-data = {"text":
+data = {'text':
             ["we like to play football",
              "I'm playing football better than neymar and cristano ronaldo",
-             'I like Fifa more than I like football, My Fav team is #RealMadrid Hala Madrid',
-             'Hamburger or Pizza? what would i choose? I will eat both of them, it so tasty!',
-             'banana pancakes with syrup maple, thats my favorite meals'],
+             "I like Fifa more than I like football, My Fav team is #RealMadrid Hala Madrid",
+             "Hamburger or Pizza? what would i choose? I will eat both of them, it so tasty!",
+             "banana pancakes with syrup maple, thats my favorite meal"],
         'label':
             [1, 1, 1, 2, 2]}
 df = pd.DataFrame(data)
