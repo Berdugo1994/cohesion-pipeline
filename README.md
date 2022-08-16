@@ -14,7 +14,7 @@ pip install cohesion-pipeline
 ```
 
 ## Usage Example
-The input to the cohesion_score functin must be a csv,txt,tsv file with a tab['\t'] seperator and must have 'label' and 'text' columns
+The input to the cohesion_score function must be a csv, txt, tsv file with a tab['\t'] seperator and must have 'label' and 'text' columns
 ```python
 import pandas as pd
 from cohesion import cohesion_pipeline
