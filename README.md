@@ -7,6 +7,9 @@ Given a division cohesion-pipeline will calculate the human-subjective score, an
 
 The POC to this attitude can be found in the [colab-notebook](https://colab.research.google.com/drive/1IFWKF3CFfzZWT9WucdISpDbLDI4mtTjX?usp=sharing), or in the ["Cohesion Pipeline Project- Full report"](https://github.com/Berdugo1994/cohesion-pipeline/blob/main/Cohesion%20Pipeline%20Project%20-%20Full%20Report.pdf)
 
+The useage example can be also found in the [colab-notebook-usage-example](https://colab.research.google.com/drive/1zAJs5px8HBMo99hPc-MhnlInKi7ze9yI?usp=sharing)
+
+
 ## Installation
 
 ```bash
@@ -42,5 +45,3 @@ Expected output
 Cohesion Final score is: 0.99
 Cohesion Topics are: ['like football play ronaldo playing', 'tasty pizza hamburger eat choose']
 ```
-
-The useage example can be also found in the [colab-notebook-usage-example](https://colab.research.google.com/drive/1zAJs5px8HBMo99hPc-MhnlInKi7ze9yI?usp=sharing)
