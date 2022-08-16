@@ -29,7 +29,13 @@ data = {"text":
             [1, 1, 1, 2, 2]}
 df = pd.DataFrame(data)
 score, topic_names  = cohesion_pipeline.cohesion_df(df)
-print("Cohesion Final score is", score)
-print("Cohesion Topics are:", topic_names)
+print("Cohesion Final score is: ", score)
+print("Cohesion Topics are: ", topic_names)
 
+```
+
+Expected output
+```
+Cohesion Final score is: 0.875
+Cohesion Topics are: to complete
 ```
